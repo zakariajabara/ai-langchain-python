@@ -3,9 +3,9 @@ uv init
 uv venv venv
 source ./.venv/bn/activate
 
-## download necesary packages
-## ipykernel, tiktoken, langchain-openai, langchain, pythis-dotenv, langchain_text_splitters
-## langchain_community
+// download necesary packages
+// ipykernel, tiktoken, langchain-openai, langchain, pythis-dotenv, langchain_text_splitters
+// langchain_community
 uv add ipykernel
 uv add tiktoken
 
