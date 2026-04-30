@@ -1,5 +1,5 @@
 # ai-langchain-python
-uv inity /n
+uv inity
 
 uv venv venv
 source ./.venv/bn/activate
